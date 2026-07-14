@@ -1,3 +1,4 @@
 title: Nora Cook - Data Science Portfolio
-description: Showcase of my machine learning and data analysis projects.
-theme: jekyll-theme-minimal
+description: Showcase of my data analysis projects.
+logo: img/headshot.png
+remote_theme: pages-themes/minimal@v0.2.0

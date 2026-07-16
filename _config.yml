@@ -1,5 +1,6 @@
 # Site Settings
 title: "Nora Cook - Data Science Portfolio"
+logo: "1762065830391.jpeg"
 description: "Showcase of my data science projects."
 bio: "MS Business Analytics Candidate @ CSUEB | Specialized in Environmental Data Science"
 location: "Oakland, California"
@@ -11,6 +12,6 @@ linkedin: "https://www.linkedin.com/in/nora-cookie/"
 
 # Theme & Assets
 remote_theme: pages-themes/minimal@v0.2.0
-logo: "1762065830391.jpeg"
+
 plugins: 
 - jekyll-remote-theme

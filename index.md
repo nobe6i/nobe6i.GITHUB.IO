@@ -1,4 +1,11 @@
----
+### 📬 Contact Info
+
+
+* **Email:** {{ site.email }}
+* **Phone:** {{ site.phone }}
+* **LinkedIn:** [Nora Cook]({{ site.linkedin }})
+* **Location:** {{ site.location }
+}---
 layout: default
 title: About Me
 remote_theme: pages-themes/minimal@v0.2.0

@@ -11,6 +11,6 @@ linkedin: "https://www.linkedin.com/in/nora-cookie/"
 
 # Theme & Assets
 remote_theme: pages-themes/minimal@v0.2.0
-logo: "/assets/images/1762065830391.jpeg"
+logo: "1762065830391.jpeg"
 plugins: 
 - jekyll-remote-theme

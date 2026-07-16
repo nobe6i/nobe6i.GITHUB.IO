@@ -1,9 +1,3 @@
-### 📬 Contact Info
-* **Email:** {{ site.email }}
-* **Phone:** {{ site.phone }}
-* **LinkedIn:** [Nora Cook]({{ site.linkedin }})
-* **Location:** {{ site.location }}
-
 # Site Settings
 title: "Nora Cook - Data Science Portfolio"
 description: "Showcase of my data science projects."
@@ -18,3 +12,5 @@ linkedin: "https://www.linkedin.com/in/nora-cookie/"
 # Theme & Assets
 remote_theme: pages-themes/minimal@v0.2.0
 logo: "/assets/images/1762065830391.jpeg"
+plugins: 
+- jekyll-remote-theme

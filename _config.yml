@@ -1,3 +1,9 @@
+### 📬 Contact Info
+* **Email:** {{ site.email }}
+* **Phone:** {{ site.phone }}
+* **LinkedIn:** [Nora Cook]({{ site.linkedin }})
+* **Location:** {{ site.location }}
+
 # Site Settings
 title: "Nora Cook - Data Science Portfolio"
 description: "Showcase of my data science projects."

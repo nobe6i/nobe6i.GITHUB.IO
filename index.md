@@ -1,3 +1,7 @@
+---
+layout: default
+title: About Me
+---
 # About Me
 
 Hi there! 👋 I am a data enthusiast based in **Oakland, California**, dedicated to leveraging the power of data science to drive environmental sustainability. 

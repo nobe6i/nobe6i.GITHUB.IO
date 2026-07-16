@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Me
+remote_theme: pages-themes/minimal@v0.2.0
 ---
 # About Me
 
